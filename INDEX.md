@@ -59,6 +59,8 @@ Start with [Agentic AI](agentic-ai/README.md).
 
 Start with [Use Cases](use-cases/README.md).
 
+For interview practice, use the [system-design case-study list](use-cases/system-design-case-studies.md).
+
 ## 13. Career Preparation
 
 Start with [Career Preparation](career/README.md), including the [target-role competency matrix](career/target-role-competency-matrix.md).
