@@ -37,3 +37,11 @@ You are ready to apply when you can:
 - Give evidence-based stories of influence, conflict resolution, mentorship, quality improvement, and customer impact.
 - Explain your technical vision as a staged plan with risks, dependencies, milestones, and success metrics.
 
+## Optional Director-Level AI Track
+
+Add this track only when targeting engineering-management roles in addition to Staff/Principal IC roles:
+
+- Build evidence of direct people leadership, team planning, delegation, coaching, hiring, and performance management.
+- Practice executive updates that connect delivery status, risks, AI cost, compliance, staffing, and customer/business outcomes.
+- Deliver or document a production-style RAG or agentic-AI workflow with evaluation, security controls, observability, and cost guardrails.
+- Practice estimating and sequencing a multi-team program across scope, budget, timeline, contractors, and technical dependencies.

@@ -2,9 +2,9 @@
 
 ## Target Roles
 
-This handbook is being shaped for Staff, Senior Staff, Principal Engineer, and PMTS individual-contributor roles at high-scale product, cloud, data, and AI-platform companies.
+This handbook is being shaped primarily for Staff, Senior Staff, Principal Engineer, and PMTS individual-contributor roles at high-scale product, cloud, data, and AI-platform companies. It also tracks selected Director-level AI engineering roles where the technical scope overlaps but the leadership model is different.
 
-The requirements below are a distilled preparation matrix from the job descriptions reviewed for Atlassian Principal Engineer, Databricks Senior Staff Software Engineer, Salesforce Engineering Lead / PMTS-style roles, and Google Staff Software Engineer in AI and Infrastructure. It is a preparation aid, not a reproduction of any job posting.
+The requirements below are a distilled preparation matrix from the job descriptions reviewed for Atlassian Principal Engineer, Databricks Senior Staff Software Engineer, Salesforce Engineering Lead / PMTS-style roles, Google Staff Software Engineer in AI and Infrastructure, and a GE Vernova AI Foundry Director role. It is a preparation aid, not a reproduction of any job posting.
 
 ## Shared Requirements
 
@@ -29,6 +29,23 @@ The requirements below are a distilled preparation matrix from the job descripti
 | Databricks Senior Staff | Deep distributed-systems internals, performance profiling/debugging, large-cluster operations, multi-year vision, and data infrastructure at scale |
 | Salesforce Engineering Lead / PMTS-style | Multi-tenant SaaS, public cloud, databases and SQL, queues and scheduling, secure AI-agent workflows, and shared system context |
 | Google Staff, AI and Infrastructure | Rigorous DSA, broad systems versatility, hyperscale infrastructure, technical leadership, and alignment in a complex matrixed organization |
+| GE Vernova AI Foundry Director | Agentic AI delivery on cloud, responsible AI and compliance, RAG production systems, AI cost management, executive communication, delivery execution, and organizational leadership |
+
+## IC and Director Leadership Models
+
+The first four target profiles are senior individual-contributor roles. Their leadership is primarily technical: setting direction, influencing teams, mentoring, and owning high-impact architecture and delivery.
+
+The GE Vernova role is a Director-level engineering-management role. In addition to technical leadership, it expects direct management of engineers and contractors, delivery ownership across budget/scope/timeline, leadership reporting, Agile operating discipline, and influence with executive stakeholders.
+
+Apply to Director roles when you can demonstrate evidence of most of the following:
+
+- Five or more years of direct people management or an equivalent formal engineering-leadership scope.
+- Management of managers, large contractor/vendor groups, or several delivery teams.
+- Ownership of delivery commitments, staffing, estimation, prioritization, and risk management.
+- Regular executive communication that connects technical decisions to business, cost, compliance, and adoption outcomes.
+- Production AI delivery, including responsible AI controls, cloud cost management, and ideally RAG or agentic workflows.
+
+If your strongest evidence is architecture, systems depth, and cross-team technical influence rather than direct people management, prioritize the Staff/Principal/PMTS roles while building this management evidence deliberately.
 
 ## Evidence Portfolio
 
@@ -52,4 +69,3 @@ Build and be ready to discuss the following:
 - [ ] I can describe a multi-quarter technical vision as incremental, measurable milestones.
 - [ ] I have mentored others or improved an engineering practice.
 - [ ] I can assess human- or AI-generated code for correctness, security, performance, and maintainability.
-
