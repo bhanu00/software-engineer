@@ -53,7 +53,7 @@ Start with [Databases](database/README.md).
 
 ## 11. Agentic AI
 
-Start with [Agentic AI](agentic-ai/README.md).
+Start with [Agentic AI](agentic-ai/README.md), then follow the [Agentic AI learning roadmap](agentic-ai/agentic-ai-learning-roadmap.md).
 
 ## 12. System-Design Case Studies
 

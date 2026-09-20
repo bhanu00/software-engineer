@@ -12,6 +12,7 @@ The path is intentionally flexible: finish each outcome, rather than treating th
 | Improve system-design ability | [Path B: System Design and Distributed Systems](#path-b-system-design-and-distributed-systems) |
 | Become stronger in cloud/platform engineering | [Path C: Cloud Platform and Reliability](#path-c-cloud-platform-and-reliability) |
 | Prepare for Staff, Principal, or PMTS roles | [Path D: Staff and Principal Engineer](#path-d-staff-and-principal-engineer) |
+| Move toward AI Architect or AI engineering leadership | [Agentic AI learning roadmap](agentic-ai/agentic-ai-learning-roadmap.md) |
 | Prepare for interviews | [Path E: Interview Preparation](#path-e-interview-preparation) |
 
 ## Core Sequence
@@ -116,6 +117,7 @@ Use [Career Preparation](career/README.md) as the role-requirements source of tr
 2. Study [System Design](system-designs/README.md), [Architecture](architectures/README.md), [Distributed Systems](distributed-systems/README.md), and [Use Cases](use-cases/README.md) as design-review exercises.
 3. Build one portfolio-quality system in [Solutions](solutions/README.md), with a design document, ADRs, load tests, SLOs, dashboards, and a cost/reliability analysis.
 4. Review [Agentic AI](agentic-ai/README.md) for modern system concerns.
+5. Follow the [Agentic AI learning roadmap](agentic-ai/agentic-ai-learning-roadmap.md), including its platform, governance, product, and leadership stages.
 
 ### Leadership depth
 
