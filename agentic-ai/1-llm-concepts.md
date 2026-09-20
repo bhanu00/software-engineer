@@ -1,8 +1,4 @@
-Here’s a **Markdown cheat sheet** you can paste directly into your notes. I’ve expanded each concept with deeper explanations and examples so it’s easy to understand as a learner.
-
----
-
-# 📘 LLM Concepts Cheat Sheet
+# 📘 LLM Concepts
 
 ## 1. Capabilities
 - **Language Understanding & Generation**  
