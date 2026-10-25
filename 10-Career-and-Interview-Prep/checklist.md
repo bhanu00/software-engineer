@@ -21,6 +21,6 @@ Use this checklist to track demonstrated skills, not just pages read. Add exampl
 - [ ] Practice coding, system-design, and behavioral interviews on a regular cadence.
 - [ ] Prepare evidence-based stories about technical decisions, influence, and outcomes.
 - [ ] Explain a design to engineering, product, and executive audiences.
-- [ ] Review the [target-role competency matrix](1-career/target-role-competency-matrix.md) and close the largest gaps.
+- [ ] Review the [target-role competency matrix](01-career/target-role-competency-matrix.md) and close the largest gaps.
 
-Continue using the [career preparation plan](1-career/preparation-plan.md) to turn remaining gaps into weekly actions.
+Continue using the [career preparation plan](01-career/preparation-plan.md) to turn remaining gaps into weekly actions.
