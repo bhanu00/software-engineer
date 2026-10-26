@@ -1,7 +1,3 @@
-Here’s your **Day 4 end‑to‑end guide** for LinkedIn, focusing on **RAG (Retrieval‑Augmented Generation) advanced architecture concepts**. I’ll explain each in detail, then give you a ready‑to‑post draft with a flow chart and interactive question.
-
----
-
 # 📘 RAG Advanced Concepts Guide
 
 ## 1. RAG Architecture
