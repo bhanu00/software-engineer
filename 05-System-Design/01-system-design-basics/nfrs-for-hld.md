@@ -6,16 +6,19 @@ Non-functional requirements (NFRs) describe the qualities, constraints, and oper
 
 | Attribute | Make the requirement measurable with | Focused chapter |
 | --- | --- | --- |
-| Performance | Latency percentiles, throughput, and workload | [API performance](api-performance.md) |
+| Performance | Latency percentiles, throughput, and workload | [System performance](performance.md) |
 | Scalability | Expected growth, peak load, and capacity limits | [Scalability](scalability.md) |
-| Availability and reliability | Availability target, error budget, and recovery expectations | [Resilience and fault tolerance](../02-distributed-systems/resiliency-vs-fault-tolerance.md) |
+| Availability | Availability target, error budget, and downtime measurement | [Availability](availability.md) |
+| Reliability | Correctness and dependable operation over time | [Reliability](reliability.md) |
+| Resilience and fault tolerance | Impact containment, continued operation, and recovery | [Resilience](resilience.md) and [fault tolerance](fault-tolerance.md) |
+| Single points of failure | Critical dependencies and failure domains | [Single points of failure](single-points-of-failure.md) |
 | Security and privacy | Data classification, access boundaries, and applicable controls | [Security](../../03-Security/README.md) |
 | Observability | Required signals, alert conditions, and diagnostic coverage | [Observability](observability.md) |
 | Consistency and durability | Read/write guarantees and acceptable data-loss window | [Consistency approaches](../02-distributed-systems/different-ways-to-achieve-consistency.md) |
 | Maintainability and operability | Ownership, deployment, support, and change expectations | [Operational excellence](../../04-Cloud-and-DevOps/01-devops/operational-excellence.md) |
 | Cost efficiency | Budget, unit cost, and cost-growth limits | [System-design trade-offs](system-design-trade-offs.md) |
 
-The table is a checklist, not a requirement to optimize every attribute equally. Choose the attributes that matter for the product and make conflicts explicit.
+The table is a checklist, not a requirement to optimize every attribute equally. Choose the attributes that matter for the product and make conflicts explicit. For the recommended study order, start with [system performance](performance.md) and [scalability](scalability.md), then [availability](availability.md) and [reliability](reliability.md); inspect [single points of failure](single-points-of-failure.md), then study [resilience](resilience.md) and [fault tolerance](fault-tolerance.md). API-specific performance techniques are in the [API Design section](api-design/README.md).
 
 ## Turn qualities into requirements
 

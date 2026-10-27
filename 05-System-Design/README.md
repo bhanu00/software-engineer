@@ -7,19 +7,23 @@ Use this page as the entry point for system-design topics. Each chapter has one 
 ### Foundations and quality attributes
 
 - [System-design basics and HLD](01-system-design-basics/README.md)
+- [Capacity estimation](01-system-design-basics/capacity-estimation.md)
+- [System performance](01-system-design-basics/performance.md)
 - [Scalability](01-system-design-basics/scalability.md)
+- [Availability and reliability](01-system-design-basics/availability.md)
+- [Resilience and fault tolerance](01-system-design-basics/resilience.md)
+- [Single points of failure](01-system-design-basics/single-points-of-failure.md)
 - [Non-functional requirements](01-system-design-basics/nfrs-for-hld.md)
-- [API performance](01-system-design-basics/api-performance.md)
+- [API design](01-system-design-basics/api-design/README.md)
 - [Caching](01-system-design-basics/caching.md)
-- [Rate limiting](01-system-design-basics/rate-limiting.md)
 - [Observability](01-system-design-basics/observability.md)
-- [Public API guidelines](01-system-design-basics/public-api-guidelines.md)
-- [API status codes](01-system-design-basics/api-status-codes.md)
-- [API error handling](01-system-design-basics/api-errors.md)
 
 ### Distributed systems
 
 - [Distributed-systems concepts](02-distributed-systems/README.md)
+- [Replication and partitioning](02-distributed-systems/replication-and-partitioning.md)
+- [Clocks, ordering, and causality](02-distributed-systems/clocks-ordering-and-causality.md)
+- [Idempotency and delivery semantics](02-distributed-systems/idempotency-and-deduplication.md)
 - [Network protocols and load balancing](02-distributed-systems/network-protocols-and-load-balancer.md)
 - [Consistency](02-distributed-systems/different-ways-to-achieve-consistency.md)
 - [Messaging and event delivery](02-distributed-systems/msg-broker-kafka-msk.md)
@@ -27,6 +31,7 @@ Use this page as the entry point for system-design topics. Each chapter has one 
 ### Architecture and service boundaries
 
 - [Architectures and patterns](03-architectures/README.md)
+- [Architecture pattern catalog](03-architectures/architectures-and-patterns.md)
 - [Microservices and monoliths](04-microservices/README.md)
 
 ## Categories

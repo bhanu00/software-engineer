@@ -57,27 +57,35 @@ Estimated pace: 12 to 16 weeks. Start after you are comfortable with basic APIs,
 
 ### Phase 1: System-design foundations
 
-1. [System-design foundations](05-System-Design/01-system-design-basics/system-design-foundations.md)
-2. [System Design section](05-System-Design/01-system-design-basics/README.md)
-3. [Non-functional requirements](05-System-Design/01-system-design-basics/nfrs-for-hld.md)
-4. [High-level design process](05-System-Design/01-system-design-basics/hld-process.md)
-5. [System-design trade-offs](05-System-Design/01-system-design-basics/system-design-trade-offs.md)
+1. [What is system design?](05-System-Design/01-system-design-basics/what-is-system-design.md)
+2. [How to approach HLD](05-System-Design/01-system-design-basics/how-to-approach-hld.md)
+3. [High-level design process](05-System-Design/01-system-design-basics/hld-process.md)
+4. [Non-functional requirements](05-System-Design/01-system-design-basics/nfrs-for-hld.md)
+5. [Capacity estimation](05-System-Design/01-system-design-basics/capacity-estimation.md)
 
-### Phase 2: Performance, APIs, and data
+### Phase 2: Quality attributes and failure modes
 
-1. [Scalability](05-System-Design/01-system-design-basics/scalability.md)
-2. [Performance](05-System-Design/01-system-design-basics/api-performance.md)
-3. [Caching](05-System-Design/01-system-design-basics/caching.md)
-4. [Rate limiting](05-System-Design/01-system-design-basics/rate-limiting.md)
-5. [API error handling](05-System-Design/01-system-design-basics/api-errors.md)
-6. [Databases and Data Systems](02-Databases-and-Data/README.md)
-7. [API guidelines](05-System-Design/01-system-design-basics/public-api-guidelines.md)
+1. [System performance](05-System-Design/01-system-design-basics/performance.md)
+2. [Scalability](05-System-Design/01-system-design-basics/scalability.md)
+3. [Availability](05-System-Design/01-system-design-basics/availability.md)
+4. [Reliability](05-System-Design/01-system-design-basics/reliability.md)
+5. [Single points of failure](05-System-Design/01-system-design-basics/single-points-of-failure.md)
+6. [Resilience](05-System-Design/01-system-design-basics/resilience.md)
+7. [Fault tolerance](05-System-Design/01-system-design-basics/fault-tolerance.md)
+8. [System-design trade-offs](05-System-Design/01-system-design-basics/system-design-trade-offs.md)
+9. [Caching](05-System-Design/01-system-design-basics/caching.md)
 
-### Phase 3: Distributed systems
+### Phase 3: API design
+
+1. Follow [API design and contract basics](05-System-Design/01-system-design-basics/api-design/README.md).
+2. Study [API performance](05-System-Design/01-system-design-basics/api-design/api-performance.md) against the performance targets defined in Phase 1.
+3. Apply [rate limiting](05-System-Design/01-system-design-basics/api-design/rate-limiting.md) as an API admission-control mechanism.
+
+### Phase 4: Distributed systems
 
 Follow [Distributed Systems](05-System-Design/02-distributed-systems/README.md), including [network protocols and load balancing](05-System-Design/02-distributed-systems/network-protocols-and-load-balancer.md).
 
-### Phase 4: Architecture and events
+### Phase 5: Architecture and events
 
 1. [Architecture](05-System-Design/03-architectures/README.md)
 2. [Event sourcing and materialized views](05-System-Design/02-distributed-systems/event-sourcing-materialized-view.md)
@@ -87,9 +95,9 @@ Follow [Distributed Systems](05-System-Design/02-distributed-systems/README.md),
 
 Outcome: you can lead an end-to-end design discussion, defend its trade-offs, and explain how it behaves when dependencies fail.
 
-### Phase 5: Advanced topics and case studies
+### Phase 6: Observability and case studies
 
-1. Review [observability](05-System-Design/01-system-design-basics/observability.md) and revisit the focused topics from the [System Design index](05-System-Design/README.md).
+1. Study [observability](05-System-Design/01-system-design-basics/observability.md) and revisit the focused topics from the [System Design index](05-System-Design/README.md).
 2. Work through the [case studies](07-Case-Studies-and-Use-Cases/README.md) and explain the requirements, architecture, trade-offs, and failure modes.
 3. Build or extend a relevant project from [Solutions and POCs](09-Solutions-and-POCs/README.md).
 

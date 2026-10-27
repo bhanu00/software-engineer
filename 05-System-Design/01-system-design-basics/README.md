@@ -1,27 +1,41 @@
 # System Design Basics
 
-Learn to clarify a problem, define quality attributes, select a high-level structure, and explain trade-offs before specializing in distributed systems or architecture.
+Study system design in decision order: clarify the problem, quantify the workload, define quality targets, analyze failure and trade-offs, then design interfaces and choose architecture.
 
-## Recommended order
+## Recommended sequence
 
-1. [System-design foundations](system-design-foundations.md)
+### 1. Understand the problem and process
+
+1. [What is system design?](what-is-system-design.md)
 2. [How to approach HLD](how-to-approach-hld.md)
-3. [What is system design?](what-is-system-design.md)
+3. [High-level design process](hld-process.md)
 4. [System-design overview](system-design.md)
-5. [Scalability](scalability.md)
-6. [Non-functional requirements](nfrs-for-hld.md)
-7. [System-design trade-offs](system-design-trade-offs.md)
-8. [Performance](api-performance.md)
-9. [Caching](caching.md)
-10. [Rate limiting](rate-limiting.md)
-11. [API guidelines](public-api-guidelines.md)
-12. [API status codes](api-status-codes.md)
-13. [API error handling](api-errors.md)
-14. [Observability](observability.md)
 
-The [distributed-systems guide](../02-distributed-systems/README.md) covers [network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md), alongside consistency, messaging, and failure handling.
+### 2. Establish requirements and workload
 
-The local [system-design foundations map](system-design-foundations.md) links to related chapters for consistency, resilience, security, data, and disaster recovery.
+5. [Non-functional requirements](nfrs-for-hld.md)
+6. [Capacity estimation](capacity-estimation.md)
+
+### 3. Design for quality attributes
+
+7. [System performance](performance.md)
+8. [Scalability](scalability.md)
+9. [Availability](availability.md)
+10. [Reliability](reliability.md)
+11. [Single points of failure](single-points-of-failure.md)
+12. [Resilience](resilience.md)
+13. [Fault tolerance](fault-tolerance.md)
+14. [System-design trade-offs](system-design-trade-offs.md)
+
+### 4. Design API contracts
+
+Continue with the focused [API Design section](api-design/README.md), covering public API guidelines, status codes, errors, performance, and rate limiting.
+
+### 5. Continue to architecture and operations
+
+Use [caching](caching.md) and [observability](observability.md) as cross-cutting design topics. Then study [distributed systems](../02-distributed-systems/README.md), [architecture](../03-architectures/README.md), and [microservices](../04-microservices/README.md), before applying them in [case studies](../../07-Case-Studies-and-Use-Cases/README.md).
+
+The [system-design foundations map](system-design-foundations.md) connects these chapters to data, security, and disaster recovery. External references are collected in the [system-design reading list](reading-list.md). For interview exercises, use the [system-design practice prompts](../../10-Career-and-Interview-Prep/02-interviews/system-design-practice.md).
 
 ## Introductory references
 
@@ -35,9 +49,3 @@ The local [system-design foundations map](system-design-foundations.md) links to
 - [Designing Amazon Prime Video mock interview](https://www.youtube.com/watch?v=PuU_0esYyhg)
 - [Sequence-diagram walkthrough](https://www.youtube.com/watch?v=pCK6prSq8aw)
 - [Engineering articles and blogs](https://interviewready.io/blog)
-
-For more references, see the [system-design reading list](reading-list.md). For interview exercises, use the [system-design practice prompts](../../10-Career-and-Interview-Prep/02-interviews/system-design-practice.md).
-
-The [HLD process note](hld-process.md) is a quick checklist to use while practicing a design discussion.
-
-Continue to [distributed systems](../02-distributed-systems/README.md), [architecture](../03-architectures/README.md), and [microservices](../04-microservices/README.md). Then practice with the [case studies](../../07-Case-Studies-and-Use-Cases/README.md).

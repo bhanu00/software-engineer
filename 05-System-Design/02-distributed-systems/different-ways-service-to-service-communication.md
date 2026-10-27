@@ -342,4 +342,4 @@ Would you like a **.NET-based working example** for WebSocket, SignalR, gRPC, or
 - [Choosing webhooks, WebSockets, Pub/Sub, or polling](https://hookdeck.com/webhooks/guides/when-to-use-webhooks)
 - [Webhooks versus APIs](https://zapier.com/blog/webhook-vs-api/)
 - [OpenAPI specification](https://swagger.io/specification/)
-- [Rate limiting](../01-system-design-basics/rate-limiting.md)
+- [API rate limiting](../01-system-design-basics/api-design/rate-limiting.md)

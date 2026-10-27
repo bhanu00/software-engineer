@@ -321,6 +321,6 @@ Imagine we need to **scale our database** to handle millions of queries per seco
 - [Architecting for reliable scalability on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-reliable-scalability/)
 - [AWS mission-critical application platform reference architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-app-platform)
 
-Related chapters: [caching](caching.md), [rate limiting](rate-limiting.md), [performance](api-performance.md), and [network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md).
+Related chapters: [caching](caching.md), [API rate limiting](api-design/rate-limiting.md), [API performance](api-design/api-performance.md), and [network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md).
 
 

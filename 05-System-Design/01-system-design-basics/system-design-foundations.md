@@ -4,12 +4,13 @@ This chapter is a map into the handbook's system-design material, not a duplicat
 
 ## Learning sequence
 
-1. [System-design basics](README.md): requirements, HLD approach, and trade-offs.
-2. [Scalability](scalability.md): capacity, scaling approaches, and bottlenecks.
-3. [Quality attributes and focused topics](README.md): non-functional requirements, performance, caching, rate limiting, and observability.
-4. [Distributed systems](../02-distributed-systems/README.md): consistency, messaging, coordination, and failure handling.
-5. [Architecture](../03-architectures/README.md) and [microservices](../04-microservices/README.md): structural choices and trade-offs.
-6. [Case studies](../../07-Case-Studies-and-Use-Cases/README.md): apply the concepts to concrete systems.
+1. [System-design basics](README.md): requirements, HLD approach, and workload.
+2. [Quality attributes](README.md): performance, scalability, availability, reliability, SPOFs, resilience, and fault tolerance.
+3. [API Design](api-design/README.md): API contracts, status codes, errors, performance, and rate limiting.
+4. [Cross-cutting topics](README.md): caching and observability.
+5. [Distributed systems](../02-distributed-systems/README.md): consistency, messaging, coordination, and failure handling.
+6. [Architecture](../03-architectures/README.md) and [microservices](../04-microservices/README.md): structural choices and trade-offs.
+7. [Case studies](../../07-Case-Studies-and-Use-Cases/README.md): apply the concepts to concrete systems.
 
 ## Core concepts
 

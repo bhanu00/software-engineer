@@ -33,9 +33,9 @@ These are investigation options, not defaults: caching can introduce staleness, 
 
 ## Related topics
 
-- [Caching](caching.md) for cache placement, freshness, and invalidation.
+- [Caching](../caching.md) for cache placement, freshness, and invalidation.
 - [Rate limiting](rate-limiting.md) for admission control and overload protection.
-- [Scalability](scalability.md) for capacity growth and scaling approaches.
-- [Network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md) for transport and traffic distribution.
-- [Observability](observability.md) for logs, metrics, and traces.
-- [Non-functional requirements](nfrs-for-hld.md) for defining performance targets as part of HLD.
+- [Scalability](../scalability.md) for capacity growth and scaling approaches.
+- [Network protocols and load balancing](../../02-distributed-systems/network-protocols-and-load-balancer.md) for transport and traffic distribution.
+- [Observability](../observability.md) for logs, metrics, and traces.
+- [Non-functional requirements](../nfrs-for-hld.md) for defining performance targets as part of HLD.
