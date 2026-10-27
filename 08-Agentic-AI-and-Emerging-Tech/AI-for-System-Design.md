@@ -36,6 +36,6 @@ Generated diagrams or recommendations can omit constraints, invent product behav
 ## Further study
 
 - [System-design basics](../05-System-Design/01-system-design-basics/README.md)
-- [Non-functional requirements for HLD](../06-Advanced-Topics/nfrs-for-hld.md)
+- [Non-functional requirements for HLD](../05-System-Design/01-system-design-basics/nfrs-for-hld.md)
 - [Agentic AI quality dimensions](01-agentic-ai/18-agent-quality-dimensions.md)
 - [Agentic AI tracing and observability](01-agentic-ai/19-agent-tracing-and-observability.md)

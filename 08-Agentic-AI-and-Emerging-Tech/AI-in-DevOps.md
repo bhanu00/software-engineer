@@ -33,4 +33,4 @@ Treat the assistant as a production dependency: define latency and availability 
 - [Agentic AI threats](01-agentic-ai/25-agentic-ai-threats.md)
 - [Human oversight and incident response](01-agentic-ai/29-human-oversight-and-incident-response.md)
 - [Operational excellence](../04-Cloud-and-DevOps/01-devops/operational-excellence.md)
-- [Observability](../06-Advanced-Topics/observability.md)
+- [Observability](../05-System-Design/01-system-design-basics/observability.md)

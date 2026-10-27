@@ -16,8 +16,7 @@ A practical learning library covering programming, cloud operations, system desi
 | [Databases and Data](02-Databases-and-Data/README.md) | SQL/NoSQL, data modeling, transactions, indexing, and scale |
 | [Security](03-Security/README.md) | Identity, authorization, cryptography, and application security |
 | [Cloud and DevOps](04-Cloud-and-DevOps/README.md) | Containers, monitoring, delivery, and GitOps |
-| [System Design](05-System-Design/README.md) | HLD, distributed systems, architecture, and microservices |
-| [Advanced Topics](06-Advanced-Topics/README.md) | Performance, APIs, caching, reliability, and observability |
+| [System Design](05-System-Design/README.md) | HLD, quality attributes, performance, APIs, distributed systems, architecture, and microservices |
 | [Case Studies and Use Cases](07-Case-Studies-and-Use-Cases/README.md) | Applied design exercises |
 | [Agentic AI and Emerging Tech](08-Agentic-AI-and-Emerging-Tech/README.md) | Agentic AI and practical AI applications |
 | [Solutions and POCs](09-Solutions-and-POCs/README.md) | Practiced implementations, applications, diagrams, and experiments |

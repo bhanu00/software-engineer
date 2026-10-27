@@ -59,22 +59,23 @@ Estimated pace: 12 to 16 weeks. Start after you are comfortable with basic APIs,
 
 1. [System-design foundations](05-System-Design/01-system-design-basics/system-design-foundations.md)
 2. [System Design section](05-System-Design/01-system-design-basics/README.md)
-3. [Non-functional requirements](06-Advanced-Topics/nfrs-for-hld.md)
+3. [Non-functional requirements](05-System-Design/01-system-design-basics/nfrs-for-hld.md)
 4. [High-level design process](05-System-Design/01-system-design-basics/hld-process.md)
 5. [System-design trade-offs](05-System-Design/01-system-design-basics/system-design-trade-offs.md)
 
 ### Phase 2: Performance, APIs, and data
 
 1. [Scalability](05-System-Design/01-system-design-basics/scalability.md)
-2. [API performance](06-Advanced-Topics/api-performance.md)
-3. [Caching](06-Advanced-Topics/caching.md)
-4. [Rate limiting](06-Advanced-Topics/rate-limiting.md)
-5. [Databases and Data Systems](02-Databases-and-Data/README.md)
-6. [API guidelines](05-System-Design/01-system-design-basics/public-api-guidelines.md)
+2. [Performance](05-System-Design/01-system-design-basics/api-performance.md)
+3. [Caching](05-System-Design/01-system-design-basics/caching.md)
+4. [Rate limiting](05-System-Design/01-system-design-basics/rate-limiting.md)
+5. [API error handling](05-System-Design/01-system-design-basics/api-errors.md)
+6. [Databases and Data Systems](02-Databases-and-Data/README.md)
+7. [API guidelines](05-System-Design/01-system-design-basics/public-api-guidelines.md)
 
 ### Phase 3: Distributed systems
 
-Follow [Distributed Systems](05-System-Design/02-distributed-systems/README.md), then read [network protocols and load balancing](06-Advanced-Topics/network-protocols-and-load-balancer.md).
+Follow [Distributed Systems](05-System-Design/02-distributed-systems/README.md), including [network protocols and load balancing](05-System-Design/02-distributed-systems/network-protocols-and-load-balancer.md).
 
 ### Phase 4: Architecture and events
 
@@ -88,7 +89,7 @@ Outcome: you can lead an end-to-end design discussion, defend its trade-offs, an
 
 ### Phase 5: Advanced topics and case studies
 
-1. Review the [advanced topics](06-Advanced-Topics/README.md), including performance, caching, rate limiting, and observability.
+1. Review [observability](05-System-Design/01-system-design-basics/observability.md) and revisit the focused topics from the [System Design index](05-System-Design/README.md).
 2. Work through the [case studies](07-Case-Studies-and-Use-Cases/README.md) and explain the requirements, architecture, trade-offs, and failure modes.
 3. Build or extend a relevant project from [Solutions and POCs](09-Solutions-and-POCs/README.md).
 

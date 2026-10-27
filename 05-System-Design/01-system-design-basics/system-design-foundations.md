@@ -6,7 +6,7 @@ This chapter is a map into the handbook's system-design material, not a duplicat
 
 1. [System-design basics](README.md): requirements, HLD approach, and trade-offs.
 2. [Scalability](scalability.md): capacity, scaling approaches, and bottlenecks.
-3. [Advanced topics](../../06-Advanced-Topics/README.md): API performance, caching, rate limiting, networking, and non-functional requirements.
+3. [Quality attributes and focused topics](README.md): non-functional requirements, performance, caching, rate limiting, and observability.
 4. [Distributed systems](../02-distributed-systems/README.md): consistency, messaging, coordination, and failure handling.
 5. [Architecture](../03-architectures/README.md) and [microservices](../04-microservices/README.md): structural choices and trade-offs.
 6. [Case studies](../../07-Case-Studies-and-Use-Cases/README.md): apply the concepts to concrete systems.
@@ -16,7 +16,7 @@ This chapter is a map into the handbook's system-design material, not a duplicat
 - [Reliability and resilience](../02-distributed-systems/resiliency-vs-fault-tolerance.md)
 - [Consistency and CAP-related approaches](../02-distributed-systems/different-ways-to-achieve-consistency.md)
 - [Service communication, polling, and messaging](../02-distributed-systems/different-ways-service-to-service-communication.md)
-- [Load balancing and network protocols](../../06-Advanced-Topics/network-protocols-and-load-balancer.md)
+- [Load balancing and network protocols](../02-distributed-systems/network-protocols-and-load-balancer.md)
 - [Database selection and scaling](../../02-Databases-and-Data/README.md)
 - [Security fundamentals](../../03-Security/README.md)
 - [Disaster recovery](../../04-Cloud-and-DevOps/01-devops/disaster-recovery.md)

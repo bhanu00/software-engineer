@@ -39,7 +39,7 @@ Start with a modular monolith when boundaries or requirements are still changing
 - [Cascading failures](../02-distributed-systems/cascading-failure.md)
 - [CQRS and event sourcing](../03-architectures/cqrs-with-event-sourcing-pattern.md)
 - [Outbox pattern](../03-architectures/2pc-vs-outbox-pattern.md)
-- [Rate limiting](../../06-Advanced-Topics/rate-limiting.md)
+- [Rate limiting](../01-system-design-basics/rate-limiting.md)
 
 ## Further reading
 

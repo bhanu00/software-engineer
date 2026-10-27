@@ -32,22 +32,12 @@ Use this page to find a learning area or key chapter. The [learning path](LEARNI
 ## 05. System Design
 
 - [Stage guide](05-System-Design/README.md)
-- [System-design basics](05-System-Design/01-system-design-basics/README.md), including [foundations](05-System-Design/01-system-design-basics/system-design-foundations.md), [HLD approach](05-System-Design/01-system-design-basics/how-to-approach-hld.md), [scalability](05-System-Design/01-system-design-basics/scalability.md), and [design trade-offs](05-System-Design/01-system-design-basics/system-design-trade-offs.md)
+- [System-design basics](05-System-Design/01-system-design-basics/README.md), including [foundations](05-System-Design/01-system-design-basics/system-design-foundations.md), [HLD approach](05-System-Design/01-system-design-basics/how-to-approach-hld.md), [scalability](05-System-Design/01-system-design-basics/scalability.md), [non-functional requirements](05-System-Design/01-system-design-basics/nfrs-for-hld.md), [performance](05-System-Design/01-system-design-basics/api-performance.md), [caching](05-System-Design/01-system-design-basics/caching.md), [rate limiting](05-System-Design/01-system-design-basics/rate-limiting.md), [observability](05-System-Design/01-system-design-basics/observability.md), and [API error handling](05-System-Design/01-system-design-basics/api-errors.md)
 - [System-design reading list](05-System-Design/01-system-design-basics/reading-list.md)
-- [Distributed systems](05-System-Design/02-distributed-systems/README.md), including [consistency](05-System-Design/02-distributed-systems/different-ways-to-achieve-consistency.md), [service communication](05-System-Design/02-distributed-systems/different-ways-service-to-service-communication.md), and [event delivery](05-System-Design/02-distributed-systems/event-non-delivery.md)
+- [Distributed systems](05-System-Design/02-distributed-systems/README.md), including [network protocols and load balancing](05-System-Design/02-distributed-systems/network-protocols-and-load-balancer.md), [consistency](05-System-Design/02-distributed-systems/different-ways-to-achieve-consistency.md), [service communication](05-System-Design/02-distributed-systems/different-ways-service-to-service-communication.md), and [event delivery](05-System-Design/02-distributed-systems/event-non-delivery.md)
 - [Distributed-systems papers](05-System-Design/02-distributed-systems/reading-list.md)
 - [Architecture](05-System-Design/03-architectures/README.md), including [software architectures](05-System-Design/03-architectures/software-architectures.md) and [CQRS with event sourcing](05-System-Design/03-architectures/cqrs-with-event-sourcing-pattern.md)
 - [Microservices](05-System-Design/04-microservices/README.md): monolith-versus-service trade-offs and decision criteria
-## 06. Advanced Topics
-
-- [Stage guide](06-Advanced-Topics/README.md)
-- [API performance](06-Advanced-Topics/api-performance.md)
-- [API errors and error handling](06-Advanced-Topics/api-errors.md)
-- [Caching](06-Advanced-Topics/caching.md)
-- [Rate limiting](06-Advanced-Topics/rate-limiting.md)
-- [Network protocols and load balancers](06-Advanced-Topics/network-protocols-and-load-balancer.md)
-- [Non-functional requirements for HLD](06-Advanced-Topics/nfrs-for-hld.md)
-- [Observability](06-Advanced-Topics/observability.md)
 
 ## 07. Case Studies and Use Cases
 

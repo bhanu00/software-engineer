@@ -67,11 +67,7 @@ Scalability is a system's ability to **handle an increasing load** or **expand s
   - **Azure:** Azure Load Balancer, Application Gateway.
 
 ### **2️⃣ Caching**
-- Reduces database load by **storing frequently accessed data**.
-- Example:
-  - **AWS:** Amazon ElastiCache (Redis, Memcached).
-  - **Azure:** Azure Cache for Redis.
-  - **.NET:** `IMemoryCache` or `DistributedCache`.
+- Use a cache to reduce repeated work and protect dependencies. See the dedicated [caching guide](caching.md) for placement, invalidation, and eviction strategies.
 
 ### **3️⃣ Database Scaling**
 - **Replication:** Read replicas for read-heavy workloads.
@@ -325,6 +321,6 @@ Imagine we need to **scale our database** to handle millions of queries per seco
 - [Architecting for reliable scalability on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-reliable-scalability/)
 - [AWS mission-critical application platform reference architecture](https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-mission-critical/mission-critical-app-platform)
 
-Related chapters: [caching](../../06-Advanced-Topics/caching.md), [rate limiting](../../06-Advanced-Topics/rate-limiting.md), and [network protocols and load balancing](../../06-Advanced-Topics/network-protocols-and-load-balancer.md).
+Related chapters: [caching](caching.md), [rate limiting](rate-limiting.md), [performance](api-performance.md), and [network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md).
 
 

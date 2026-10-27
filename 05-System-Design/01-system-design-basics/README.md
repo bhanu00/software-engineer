@@ -9,16 +9,19 @@ Learn to clarify a problem, define quality attributes, select a high-level struc
 3. [What is system design?](what-is-system-design.md)
 4. [System-design overview](system-design.md)
 5. [Scalability](scalability.md)
-6. [API status codes](api-status-codes.md)
-7. [Public API guidelines](public-api-guidelines.md)
-8. [System-design trade-offs](system-design-trade-offs.md)
-9. [API performance](../../06-Advanced-Topics/api-performance.md)
-10. [Caching](../../06-Advanced-Topics/caching.md)
-11. [Rate limiting](../../06-Advanced-Topics/rate-limiting.md)
-12. [Network protocols and load balancers](../../06-Advanced-Topics/network-protocols-and-load-balancer.md)
-13. [Non-functional requirements](../../06-Advanced-Topics/nfrs-for-hld.md)
+6. [Non-functional requirements](nfrs-for-hld.md)
+7. [System-design trade-offs](system-design-trade-offs.md)
+8. [Performance](api-performance.md)
+9. [Caching](caching.md)
+10. [Rate limiting](rate-limiting.md)
+11. [API guidelines](public-api-guidelines.md)
+12. [API status codes](api-status-codes.md)
+13. [API error handling](api-errors.md)
+14. [Observability](observability.md)
 
-The local [system-design foundations map](system-design-foundations.md) links to the related chapters for consistency, resilience, security, data, and disaster recovery.
+The [distributed-systems guide](../02-distributed-systems/README.md) covers [network protocols and load balancing](../02-distributed-systems/network-protocols-and-load-balancer.md), alongside consistency, messaging, and failure handling.
+
+The local [system-design foundations map](system-design-foundations.md) links to related chapters for consistency, resilience, security, data, and disaster recovery.
 
 ## Introductory references
 

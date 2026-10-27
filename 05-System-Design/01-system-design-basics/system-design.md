@@ -18,7 +18,7 @@ System design turns product requirements and workload constraints into a set of 
 - [How to approach an HLD](how-to-approach-hld.md)
 - [System-design trade-offs](system-design-trade-offs.md)
 - [Scalability](scalability.md)
-- [Non-functional requirements](../../06-Advanced-Topics/nfrs-for-hld.md)
+- [Non-functional requirements](nfrs-for-hld.md)
 - [Distributed systems](../02-distributed-systems/README.md)
 - [Architecture](../03-architectures/README.md)
 - [Case studies](../../07-Case-Studies-and-Use-Cases/README.md)
