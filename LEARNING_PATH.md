@@ -134,6 +134,7 @@ Use [Career Preparation](10-Career-and-Interview-Prep/01-career/README.md) as th
 3. Build one portfolio-quality system in [Solutions](09-Solutions-and-POCs/README.md), with a design document, ADRs, load tests, SLOs, dashboards, and a cost/reliability analysis.
 4. Review [Agentic AI](08-Agentic-AI-and-Emerging-Tech/01-agentic-ai/README.md) for modern system concerns.
 5. Follow the [Agentic AI learning roadmap](08-Agentic-AI-and-Emerging-Tech/01-agentic-ai/agentic-ai-learning-roadmap.md), including its platform, governance, product, and leadership stages.
+6. Follow the [Enterprise Agentic AI Engineering track](08-Agentic-AI-and-Emerging-Tech/02-agentic-ai-engineering/README.md) through RAG, orchestration, security, evaluation, operations, and the technical capstone.
 
 ### Leadership depth
 

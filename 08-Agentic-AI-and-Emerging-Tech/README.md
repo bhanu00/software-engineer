@@ -2,7 +2,7 @@
 
 This stage is an optional specialization after the core engineering and system-design material.
 
-Start with the [Agentic AI section](01-agentic-ai/README.md), then follow its [learning roadmap](01-agentic-ai/agentic-ai-learning-roadmap.md) through model concepts, retrieval, workflows, evaluation, governance, security, and operations.
+Start with the [Agentic AI section](01-agentic-ai/README.md), then follow its [learning roadmap](01-agentic-ai/agentic-ai-learning-roadmap.md) through model concepts, retrieval, workflows, evaluation, governance, security, and operations. For a hands-on, enterprise-focused sequence covering frameworks through production, continue with the [Agentic AI Engineering track](02-agentic-ai-engineering/README.md).
 
 Explore practical applications in [AI for DevOps](AI-in-DevOps.md) and [AI for System Design](AI-for-System-Design.md).
 

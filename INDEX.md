@@ -56,6 +56,7 @@ Use this page to find a learning area or key chapter. The [learning path](LEARNI
 - [Stage guide](08-Agentic-AI-and-Emerging-Tech/README.md)
 - [Agentic AI topics](08-Agentic-AI-and-Emerging-Tech/01-agentic-ai/README.md)
 - [Agentic AI learning roadmap](08-Agentic-AI-and-Emerging-Tech/01-agentic-ai/agentic-ai-learning-roadmap.md)
+- [Enterprise Agentic AI Engineering: LangChain, LangGraph, RAG, security, evaluation, and operations](08-Agentic-AI-and-Emerging-Tech/02-agentic-ai-engineering/README.md)
 - [AI in DevOps](08-Agentic-AI-and-Emerging-Tech/AI-in-DevOps.md)
 - [AI for System Design](08-Agentic-AI-and-Emerging-Tech/AI-for-System-Design.md)
 
